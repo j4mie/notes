@@ -31,3 +31,5 @@ Now, please don’t think that I’m arguing that static  typing and async Pytho
 Sure, if you have a crusty old five-million-line spaghetti codebase with hundreds of engineers working on it every hour of every day, maybe static type checking could help you. If you’re writing code that needs to move network packets around between thousands of connected clients, then you probably need async. But at least be aware of what you’re doing: you’re making concessions. You’re writing code to tell the computer more about precisely what it needs to do, at the cost of it being less understandable by humans, and at the cost of foregoing the wildly productive technique of exploratory software design. Like everything in life, it’s a trade-off.
 
 So please, just because you can, it doesn’t mean you should. My intuition is that 99% of all Python code written by anyone anywhere for any reason should not be using static type annotations and should not be async. Maybe 99.9%. In Python, dynamic, synchronous code should be the default. Don’t let your computer leak unless you are absolutely sure that you have to.
+
+`pubid:fb53860c-77a4-4c07-a070-fcffd6ec5436`
