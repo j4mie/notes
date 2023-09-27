@@ -4,6 +4,10 @@ This is a collection of writing on various topics. You might even call it a blog
 
 If you notice a typo or want to add a comment, open a pull request.
 
+## 2023
+
+* 2023-09-27 [Dale Vince and heat pumps](2023-09-27-dale-vince-heat-pumps.md)
+
 ## 2021
 
 * 2021-03-20 [Your computer is leaking: a defence of dynamic types](2021-03-20-your-computer-is-leaking-a-defence-of-dynamic-types.md)
