@@ -115,7 +115,7 @@ If we use the [UK grid emissions factors for 2023](https://www.itpenergised.com/
 
 ### Heat pump, 402% efficient
 
-* 5687kWh of electricity * 0.22499kg CO2e per kWh = 1279.52
+* 5687kWh of electricity * 0.22499kg CO2e per kWh = 1279.52kg
 
 ### Comparison
 
